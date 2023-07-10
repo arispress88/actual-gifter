@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gifter3.props" />
+</Project>
